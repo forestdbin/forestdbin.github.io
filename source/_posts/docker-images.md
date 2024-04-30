@@ -11,6 +11,7 @@ date: 2024-04-28 22:35:23
 
 - alpine
 - busybox
+- hello-world
 
 ## 语言类/Programming Language
 
@@ -33,3 +34,11 @@ date: 2024-04-28 22:35:23
 ## 服务器/Server
 - httpd
 - nginx
+
+## 服务/Service
+- bitnami/wordpress
+- bitnami/wordpress-nginx
+- wordpress
+
+## misc
+- docker/whalesay
