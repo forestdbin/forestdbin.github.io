@@ -2,11 +2,8 @@
 title: 值得试试的容器镜像
 tags:
   - container
-  - docker
-  - image
 categories:
   - container
-  - docker
 date: 2024-04-28 22:35:23
 ---
 

@@ -3,11 +3,8 @@ title: Docker Registry
 date: 2025-05-27 20:47:22
 tags:
   - container
-  - docker
-  - registry
 categories:
   - container
-  - docker
 ---
 
 [Mirror the Docker Hub library](https://docs.docker.com/docker-hub/image-library/mirror/)

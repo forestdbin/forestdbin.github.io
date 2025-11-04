@@ -1,7 +1,8 @@
 ---
 title: 道法术器
 date: 2025-06-04 16:26:51
-tags: philosophy
+tags:
+  - philosophy
 categories:
 ---
 
