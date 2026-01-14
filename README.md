@@ -32,3 +32,7 @@ $ npm install -g hexo-cli
 $ npm install
 $ hexo server
 ```
+
+```bash
+hexo new foobar -s foobar # -p dir/foobar.md
+```
